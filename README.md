@@ -1,10 +1,10 @@
-# StealthGuard - File Encryption App
+# Secura-Vault
 
 
 
 ## Overview
 
-- The File Encryption App is a Java-based application that provides secure file encryption and storage.
+- The Secura Vault is a Java-based application that provides secure file encryption and storage.
 - It utilizes MySQL for database storage to manage user accounts and encrypted file metadata. 
 - The app incorporates email authentication for user registration and login.
 
